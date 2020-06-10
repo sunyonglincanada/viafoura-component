@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://eric123:eric123@viafouracomponent-odqnr.mongodb.net/test?retryWrites=true&w=majority"
+}
