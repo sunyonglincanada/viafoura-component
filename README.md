@@ -1,6 +1,6 @@
 # Viafoura Component
 
-> Create full stack apps with React, Redux and Express & MongoDB.
+> Create a full stack app with React, Redux, Node and Express & MongoDB.
 
 > Demo - https://morning-bastion-98407.herokuapp.com/
 
