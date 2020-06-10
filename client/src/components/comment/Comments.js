@@ -13,7 +13,7 @@ export const Comments = ({ getComments, comment: { comments, loading } }) => {
     <Spinner />
   ) : (
     <Fragment>
-      <section className='container comments'>
+      <section className='comments'>
         {comments.map((comment) => (
           <CommentItem key={comment._id} comment={comment} />
         ))}
